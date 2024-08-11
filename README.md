@@ -3,7 +3,7 @@ We are presented with 3 different racetracks, an L track, an O track and an R tr
 
 ## Run it
 ```
-python main.py
+python Racecar.py
 ```
 
 ## Read it! 
