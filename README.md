@@ -6,7 +6,3 @@ We are presented with 3 different racetracks, an L track, an O track and an R tr
 python QLearning.py
 ```
 
-## Read it! 
-```
-writeup.pdf
-```
